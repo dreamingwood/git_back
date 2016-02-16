@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is free sostware.
+Git was a version control system.
+Git was a free sostware.
